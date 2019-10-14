@@ -696,4 +696,7 @@
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
     <dimen name="rounded_corner_radius">40dp</dimen>
+
+    <!-- Enable Zram writeback feature to allow unused pages in zram be written to flash. -->
+    <bool name="config_zramWriteback">true</bool>
 </resources>
