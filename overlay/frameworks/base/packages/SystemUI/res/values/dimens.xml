@@ -27,12 +27,4 @@
     <!-- Margin on the left side of the carrier text on Keyguard -->
     <dimen name="keyguard_carrier_text_margin">20dp</dimen>
 
-    <!-- The starting padding for the clock in the status bar. -->
-    <dimen name="status_bar_clock_starting_padding">2.5dp</dimen>
-
-    <!-- End padding for left-aligned status bar clock -->
-    <dimen name="status_bar_left_clock_end_padding">2.5dp</dimen>
-
-    <!-- Padding between signal cluster and battery icon -->
-    <dimen name="signal_cluster_battery_padding">3dp</dimen>
 </resources>
