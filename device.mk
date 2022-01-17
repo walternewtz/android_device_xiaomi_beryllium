@@ -87,6 +87,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/uinput-fpc.kl:system/usr/keylayout/uinput-fpc.kl \
     $(LOCAL_PATH)/keylayout/uinput-goodix.kl:system/usr/keylayout/uinput-goodix.kl
 
-# PocketMode
-PRODUCT_PACKAGES += \
-    XiaomiPocketMode
+#Don't do that
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.control_privapp_permissions=log
