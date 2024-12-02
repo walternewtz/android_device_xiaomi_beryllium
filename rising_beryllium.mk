@@ -15,7 +15,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     RISING_MAINTAINER="Test"
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_beryllium
+PRODUCT_NAME := rising_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
